@@ -41,8 +41,9 @@ You could also use HTML5 Tables to create a grid and change the cell elements ba
 The above resources should help, but try thinking about creating an object in javascript that will have a sprite, key bindings attached to move it, and the ability to respond to other elements in the game (like an enemy or another player)
 
 ##Game Sprites
-Check out this resource, or try googling "Sprites" for images to use for your player characters
-[Sprites To Use](http://www.spriters-resource.com/)
+Check out this resource, or try googling "Sprites" for images to use for your player characters.
+
+* [Sprites To Use](http://www.spriters-resource.com/)
 
 
 ##Vocabulary
